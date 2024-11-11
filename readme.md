@@ -1,17 +1,15 @@
-# Tutorial: Building an AI Assistant with ESP32-S3
+# Building an AI Assistant with ESP32-S3
 
-In this tutorial, we'll guide you through creating an AI assistant using the ESP32-S3, a microphone, and a speaker. This project will capture audio, process it with AI, and respond with synthesized speech.
+We'll guide you through creating an AI assistant using the ESP32-S3, a microphone, and a speaker. This project will capture audio, process it with AI, and respond with synthesized speech.
 
 ## Demo
 ![Connection Diagram](reference.png "Connection Diagram")
 
-
 ### Video Demonstration
-[Watch the Video Tutorial](https://www.youtube.com/watch?v=pYbnEi_xh0M)
+[![AI Assistant ESP32 Demo](https://img.youtube.com/vi/pYbnEi_xh0M/0.jpg)](https://www.youtube.com/watch?v=pYbnEi_xh0M)
 
-Repo:
+## Repo:
 https://github.com/lout33/ai_assistant_esp32
-
 
 ## Materials Needed
 
