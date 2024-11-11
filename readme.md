@@ -2,6 +2,17 @@
 
 In this tutorial, we'll guide you through creating an AI assistant using the ESP32-S3, a microphone, and a speaker. This project will capture audio, process it with AI, and respond with synthesized speech.
 
+## Demo
+![Connection Diagram](reference.png "Connection Diagram")
+
+
+### Video Demonstration
+[Watch the Video Tutorial](https://www.youtube.com/watch?v=pYbnEi_xh0M)
+
+Repo:
+https://github.com/lout33/ai_assistant_esp32
+
+
 ## Materials Needed
 
 - ESP32-S3 Devkit
@@ -11,6 +22,8 @@ In this tutorial, we'll guide you through creating an AI assistant using the ESP
 - Breadboard and Jumper Wires
 
 ## Circuit Setup
+
+![Connection Diagram](reference.png "Connection Diagram")
 
 1. **Connect the Microphone (INMP441):**
    - VDD to 3.3V
@@ -34,6 +47,7 @@ In this tutorial, we'll guide you through creating an AI assistant using the ESP
 
 5. **Connect the RGB LED:**
    - Connect to GPIO 48.
+
 
 ## Software Setup
 
